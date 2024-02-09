@@ -38,6 +38,9 @@ header .quick-links a {
 }
 
 main {
+    
+            padding-bottom: 100px; /* Adjust the value based on your footer height */
+       
     padding: 20px;
     text-align: center;
     background-image: url('1Banner.png'); 
